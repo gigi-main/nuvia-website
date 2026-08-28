@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 100" role="img" aria-labelledby="title">
+  <title id="title">Nuvia</title>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 76V31c0-15 17-23 28-10l36 54V27" stroke="#004F55" stroke-width="7"/>
+    <path d="M32 76V39c0-5 5-7 9-4l22 17v24" stroke="#FF6753" stroke-width="7"/>
+    <circle cx="51" cy="62" r="2.8" fill="#FF6753" stroke="none"/>
+    <path d="M126 70V30l40 40V30 M197 30v24c0 22 38 22 38 0V30 M266 30l21 40 21-40 M340 30v40 M371 70l22-40 22 40" stroke="#004F55" stroke-width="6"/>
+  </g>
+</svg>
